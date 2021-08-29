@@ -1,0 +1,6 @@
+# Excluding all files I did not create
+# https://github.com/github/linguist/blob/master/docs/overrides.md#vendored-code
+frontend/config/** linguist-vendored
+frontend/public/** linguist-vendored
+frontend/scripts/** linguist-vendored
+frontend/tests/** linguist-vendored
