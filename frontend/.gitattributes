@@ -1,0 +1,4 @@
+config linguist-generated=true
+public linguist-generated=true
+scripts linguist-generated=true
+tests linguist-generated=true
